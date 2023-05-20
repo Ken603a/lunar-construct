@@ -10,3 +10,6 @@ Use the number keys 8 for up, 2 for down, 4 for left, 6 for right.  Or arrow  ke
 
 Hit the space bar to fire the lasers in the direction of the cross hairs.  
 
+## Screenshot 
+
+![Play Screen)(https://github.com/Ken603a/lunar-construct/blob/main/Saucer%20Shoot%20Screen.png)
