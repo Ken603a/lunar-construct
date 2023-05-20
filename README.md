@@ -6,7 +6,7 @@ Fly the crosshairs to the flying saucer and hit the space bar to fire lasers.
 
 ## Controls
 
-Use the 7 9 1 and 3 keys to fly fly the crosshairs on a diagnal to catch the flying saucer.  
+Use the number keys 8 for up, 2 for down, 4 for left, 6 for right.  Or arrow  keys to fly the crosshairs on a diagnal to catch the flying saucer.  
 
 Hit the space bar to fire the lasers in the direction of the cross hairs.  
 
