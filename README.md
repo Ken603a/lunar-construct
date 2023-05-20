@@ -12,4 +12,4 @@ Hit the space bar to fire the lasers in the direction of the cross hairs.
 
 ## Screenshot 
 
-![Play Screen)(https://github.com/Ken603a/lunar-construct/blob/main/Saucer%20Shoot%20Screen.png)
+![Play Screen](https://github.com/Ken603a/lunar-construct/blob/main/Saucer%20Shoot%20Screen.png)
